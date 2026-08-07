@@ -69,7 +69,7 @@ Nobody ships a real product alone. I like working close to design, QA, and produ
 
 ## Get in Touch
 
-🌐 [webatlastech.com](https://webatlastech.com) · 💼 [LinkedIn](https://linkedin.com/company/webatlas-technologies) · 🐦 [X](https://x.com/Webatlastech) · 📧 info@webatlastech.com
+🌐 [webatlastech.com](https://webatlastech.com) · 💼 [LinkedIn](https://linkedin.com/company/webatlas-technologies) · 🐦 [X](https://x.com/Webatlastech) · 📧 ritick.choudhary@webatlastech.com
 
 ---
 
